@@ -69,43 +69,4 @@
   <component name="Settings">
     <option name="targetLanguageSelection" value="LAST" />
   </component>
-  <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692670692951" />
-  </component>
-  <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="276" />
-    <option name="newTranslationDialogWidth" value="1195" />
-    <option name="newTranslationDialogX" value="403" />
-    <option name="newTranslationDialogY" value="416" />
-    <histories>
-      <item value="ivate final SettleMainCommandService commandService; public SettleMainJob(SettleMainCommandService commandService) { this.commandService = commandService; }" />
-      <item value="encrypted" />
-      <item value="Use ChatGPT inside the IDE, no OpenAI key or access token required - brought to you by EasyCode. More features coming soon." />
-      <item value="这个插件很好用，查找资料再也不用打开百度了" />
-      <item value="SETTLE ADJUST NO" />
-      <item value="Return the collection of non-option arguments parsed. Returns: the non-option arguments or an empty list" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceFactory': Invocation of init method failed; nested exception is com.dalgona.framework.exception.BaseException: 로그인 서비스가 존재하지 않습니다." />
-      <item value="2023-08-16 12:44:43.188 WARN 24864 --- [ restartedMain] o.a.c.loader.WebappClassLoaderBase : The web application [ROOT] appears to have started a thread named [Follower housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
-      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
-      <item value="It Review M Super Mapped" />
-      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add" />
-      <item value="builder Method Name" />
-      <item value="org.apache.xmlgraphics:batik-swing:jar:1.13 was not found in https:nexus.dalgonatools.comrepositorymaven-public during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of public has elapsed or updates are forced" />
-      <item value="springframework" />
-      <item value="CVE-2023-1370 7.5 Uncontrolled Recursion vulnerability pending CVSS allocation" />
-      <item value="Provides transitive vulnerable dependency maven:org.springframework:spring-expression:5.3.24" />
-      <item value="jsoup" />
-      <item value="Object Mapper" />
-      <item value="build" />
-      <item value="Dalgona Response" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="13" />
-        <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="13" />
-      </map>
-    </option>
-  </component>
 </application>
