@@ -69,4 +69,30 @@
   <component name="Settings">
     <option name="targetLanguageSelection" value="LAST" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1691998532672" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="846" />
+    <option name="newTranslationDialogY" value="471" />
+    <histories>
+      <item value="org.apache.xmlgraphics:batik-swing:jar:1.13 was not found in https:nexus.dalgonatools.comrepositorymaven-public during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of public has elapsed or updates are forced" />
+      <item value="springframework" />
+      <item value="CVE-2023-1370 7.5 Uncontrolled Recursion vulnerability pending CVSS allocation" />
+      <item value="Provides transitive vulnerable dependency maven:org.springframework:spring-expression:5.3.24" />
+      <item value="jsoup" />
+      <item value="Object Mapper" />
+      <item value="build" />
+      <item value="Dalgona Response" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CZECH" value="1" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="HINDI" value="1" />
+        <entry key="KOREAN" value="6" />
+      </map>
+    </option>
+  </component>
 </application>
