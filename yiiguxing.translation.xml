@@ -77,6 +77,7 @@
     <option name="newTranslationDialogX" value="846" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="builder Method Name" />
       <item value="org.apache.xmlgraphics:batik-swing:jar:1.13 was not found in https:nexus.dalgonatools.comrepositorymaven-public during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of public has elapsed or updates are forced" />
       <item value="springframework" />
       <item value="CVE-2023-1370 7.5 Uncontrolled Recursion vulnerability pending CVSS allocation" />
@@ -89,9 +90,9 @@
     <option name="languageScores">
       <map>
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="6" />
+        <entry key="KOREAN" value="7" />
       </map>
     </option>
   </component>
