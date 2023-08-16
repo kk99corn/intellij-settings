@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="compiler.automake.allow.when.app.running" value="true" />
         <entry key="editor.tab.painting" value="LONG_ARROW" />
       </map>
     </option>

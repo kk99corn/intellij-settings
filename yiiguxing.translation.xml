@@ -73,10 +73,14 @@
     <option name="lastTrimTime" value="1691998532672" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="846" />
-    <option name="newTranslationDialogY" value="471" />
+    <option name="newTranslationDialogHeight" value="276" />
+    <option name="newTranslationDialogWidth" value="1195" />
+    <option name="newTranslationDialogX" value="403" />
+    <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
+      <item value="It Review M Super Mapped" />
+      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add" />
       <item value="builder Method Name" />
       <item value="org.apache.xmlgraphics:batik-swing:jar:1.13 was not found in https:nexus.dalgonatools.comrepositorymaven-public during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of public has elapsed or updates are forced" />
       <item value="springframework" />
@@ -90,9 +94,9 @@
     <option name="languageScores">
       <map>
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="7" />
+        <entry key="KOREAN" value="9" />
       </map>
     </option>
   </component>
