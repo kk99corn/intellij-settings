@@ -14,5 +14,8 @@
     <keyboard-shortcut first-keystroke="alt f" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="UsageFiltering.WriteAccess" />
 </keymap>
