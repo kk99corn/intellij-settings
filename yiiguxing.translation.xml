@@ -78,6 +78,9 @@
     <option name="newTranslationDialogX" value="403" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="Use ChatGPT inside the IDE, no OpenAI key or access token required - brought to you by EasyCode. More features coming soon." />
+      <item value="这个插件很好用，查找资料再也不用打开百度了" />
+      <item value="SETTLE ADJUST NO" />
       <item value="Return the collection of non-option arguments parsed. Returns: the non-option arguments or an empty list" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceFactory': Invocation of init method failed; nested exception is com.dalgona.framework.exception.BaseException: 로그인 서비스가 존재하지 않습니다." />
       <item value="2023-08-16 12:44:43.188 WARN 24864 --- [ restartedMain] o.a.c.loader.WebappClassLoaderBase : The web application [ROOT] appears to have started a thread named [Follower housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
@@ -97,9 +100,9 @@
     <option name="languageScores">
       <map>
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="10" />
+        <entry key="KOREAN" value="12" />
       </map>
     </option>
   </component>
