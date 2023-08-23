@@ -69,4 +69,17 @@
   <component name="Settings">
     <option name="targetLanguageSelection" value="LAST" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1692834863544" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value=".slf4j.Slf4j; [000] 일,월 정산 메인 @author NAM_JOUNGDAL --job=settleMainJob --dalgona.batch.packages=com.dalgona.erp.settle 20230305 N 000 @Slf4j @Component public class SettleMainJob extends AbstractJob&lt;BatchApplicationArguments, String&gt; { private final SettleMainCommandService commandService;" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
 </application>
