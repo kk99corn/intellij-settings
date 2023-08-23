@@ -78,6 +78,7 @@
     <option name="newTranslationDialogX" value="403" />
     <option name="newTranslationDialogY" value="416" />
     <histories>
+      <item value="ivate final SettleMainCommandService commandService; public SettleMainJob(SettleMainCommandService commandService) { this.commandService = commandService; }" />
       <item value="encrypted" />
       <item value="Use ChatGPT inside the IDE, no OpenAI key or access token required - brought to you by EasyCode. More features coming soon." />
       <item value="这个插件很好用，查找资料再也不用打开百度了" />
@@ -101,9 +102,9 @@
     <option name="languageScores">
       <map>
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="12" />
+        <entry key="KOREAN" value="13" />
       </map>
     </option>
   </component>
