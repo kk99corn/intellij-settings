@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="com.haulmont.jpab" />
+        <option value="com.intellij.bigdatatools.rfs" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
