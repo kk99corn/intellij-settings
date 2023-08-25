@@ -74,11 +74,16 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="DISTINCT" />
+      <item value="Adjust" />
+      <item value="terminate" />
+      <item value="Process 'Terminal Local' Is Running" />
       <item value=".slf4j.Slf4j; [000] 일,월 정산 메인 @author NAM_JOUNGDAL --job=settleMainJob --dalgona.batch.packages=com.dalgona.erp.settle 20230305 N 000 @Slf4j @Component public class SettleMainJob extends AbstractJob&lt;BatchApplicationArguments, String&gt; { private final SettleMainCommandService commandService;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="KOREAN" value="4" />
       </map>
     </option>
   </component>
