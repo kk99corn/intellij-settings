@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="DISTINCT" />
       <item value="Adjust" />
       <item value="terminate" />
@@ -83,7 +84,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="4" />
-        <entry key="KOREAN" value="4" />
+        <entry key="KOREAN" value="5" />
       </map>
     </option>
   </component>
