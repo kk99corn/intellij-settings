@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692834863544" />
+    <option name="lastTrimTime" value="1693468843910" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dalgona.bo.settlement.vend.repository.mapper.OrderUnitSetlMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="DISTINCT" />
       <item value="Adjust" />
@@ -83,7 +84,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
         <entry key="KOREAN" value="5" />
       </map>
     </option>
