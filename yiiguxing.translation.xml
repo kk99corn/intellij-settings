@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693468843910" />
+    <option name="lastTrimTime" value="1693954472493" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="total Setl Stat Grid" />
       <item value="The interface Parameter object." />
       <item value="target amount" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dalgona.bo.settlement.vend.repository.mapper.OrderUnitSetlMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency" />
@@ -86,8 +87,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="KOREAN" value="7" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="KOREAN" value="8" />
       </map>
     </option>
   </component>
