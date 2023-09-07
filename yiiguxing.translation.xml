@@ -74,6 +74,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="많은" />
+      <item value="대용랴" />
+      <item value="대용량" />
+      <item value="대랴" />
+      <item value="대량" />
+      <item value="e" />
+      <item value="Large" />
       <item value="Required request body is missing: public com.dalgona.framework.web.core.DalgonaResponse&lt;com.dalgona.bo.settlement.vend.dto" />
       <item value="vend" />
       <item value="org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public com.dalgona.framework.web.core.DalgonaResponse&lt;com.dalgona.bo.settlement.vend.dto.OrderUnitSetlResponseDto&gt; com.dalgona.bo.settlement.vend.controller.api.OrderUnitSetlApiController.selectOrderUnitSetlList(com.dalgona.bo.settlement.vend.dto.OrderUnitSetlDtoOrderUnitSetlQueryDto) at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.readWithMessageConverters(RequestResponseBodyMethodProcessor.java:163) at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:133) at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122) at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179) at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146) at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)" />
@@ -100,8 +107,8 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="19" />
-        <entry key="KOREAN" value="19" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="KOREAN" value="21" />
       </map>
     </option>
   </component>
