@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="dalgona" />
       <item value="많은" />
       <item value="대용랴" />
       <item value="대용량" />
@@ -108,7 +109,8 @@
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="21" />
-        <entry key="KOREAN" value="21" />
+        <entry key="HINDI" value="1" />
+        <entry key="KOREAN" value="22" />
       </map>
     </option>
   </component>
