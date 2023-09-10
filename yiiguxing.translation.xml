@@ -70,10 +70,12 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693954472493" />
+    <option name="lastTrimTime" value="1694388277937" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="merge Splited Ord No" />
+      <item value="splited List" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONArray cannot be cast to class org.json.JSONArray (org.json.simple.JSONArray and org.json.JSONArray are in unnamed module of loader 'app')" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONArray (org.json.simple.JSONObject and org.json.JSONArray are in unnamed module of loader 'app')" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')" />
@@ -111,9 +113,9 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="26" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="24" />
+        <entry key="KOREAN" value="26" />
       </map>
     </option>
   </component>
