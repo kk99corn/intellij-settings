@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="GPT-4 (rate-limited) and paid plans are now available in the easycode tab." />
       <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
       <item value="java.lang.NullPointerException: Cannot invoke &quot;com.dalgona.codemanager.dto.commoncode.CommonCodeResultResponseDto.toString()&quot; because &quot;commonCodeResultResponseDto&quot; is null" />
       <item value="merge Splited Ord No" />
@@ -117,7 +118,7 @@
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="28" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="28" />
+        <entry key="KOREAN" value="29" />
       </map>
     </option>
   </component>
