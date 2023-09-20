@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1694388277937" />
+    <option name="lastTrimTime" value="1695179151620" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
       <item value="java.lang.NullPointerException: Cannot invoke &quot;com.dalgona.codemanager.dto.commoncode.CommonCodeResultResponseDto.toString()&quot; because &quot;commonCodeResultResponseDto&quot; is null" />
       <item value="merge Splited Ord No" />
       <item value="splited List" />
@@ -114,9 +115,9 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="27" />
+        <entry key="KOREAN" value="28" />
       </map>
     </option>
   </component>
