@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Channel Settle Dto Channel Settle Query Dto" />
       <item value="Ordering direction is redundant here" />
       <item value="Tag name expected" />
       <item value="GPT-4 (rate-limited) and paid plans are now available in the easycode tab." />
@@ -118,7 +119,7 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="31" />
       </map>
