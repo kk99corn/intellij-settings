@@ -74,10 +74,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cs emergency not complete cnt" />
+      <item value="emergency" />
+      <item value="Tag name expected" />
+      <item value="Ordering direction is redundant here" />
       <item value="takeback delay" />
       <item value="Channel Settle Dto Channel Settle Query Dto" />
-      <item value="Ordering direction is redundant here" />
-      <item value="Tag name expected" />
       <item value="GPT-4 (rate-limited) and paid plans are now available in the easycode tab." />
       <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
       <item value="java.lang.NullPointerException: Cannot invoke &quot;com.dalgona.codemanager.dto.commoncode.CommonCodeResultResponseDto.toString()&quot; because &quot;commonCodeResultResponseDto&quot; is null" />
@@ -120,9 +122,9 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="32" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="31" />
+        <entry key="KOREAN" value="33" />
       </map>
     </option>
   </component>
