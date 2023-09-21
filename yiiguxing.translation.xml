@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="takeback delay" />
       <item value="Channel Settle Dto Channel Settle Query Dto" />
       <item value="Ordering direction is redundant here" />
       <item value="Tag name expected" />
@@ -119,7 +120,7 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="31" />
       </map>
