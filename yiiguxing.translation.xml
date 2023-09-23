@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Unclosed directive" />
       <item value="identifier expected" />
       <item value="It's not allowed to mix camel-case and lowercase identifiers in one template" />
       <item value="lineNumber: 79; columnNumber: 34; The content of elements must consist of well-formed character data or markup." />
@@ -128,7 +129,7 @@
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="34" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="37" />
+        <entry key="KOREAN" value="38" />
       </map>
     </option>
   </component>
