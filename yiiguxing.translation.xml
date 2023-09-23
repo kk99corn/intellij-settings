@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="previous" />
       <item value="Unclosed directive" />
       <item value="identifier expected" />
       <item value="It's not allowed to mix camel-case and lowercase identifiers in one template" />
@@ -127,7 +128,7 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="38" />
       </map>
