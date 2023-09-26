@@ -74,6 +74,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Vend Penalty Service" />
+      <item value="reflection To String" />
+      <item value="PROPAGATION REQUIRED" />
       <item value="Shortage Cancel" />
       <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'queryParameterMap'. Cause: java.lang.ClassNotFoundException: Cannot find class: queryParameterMap" />
       <item value="Shortage Cancel Query Result Dto" />
@@ -121,16 +124,13 @@
       <item value="The interface Parameter object." />
       <item value="target amount" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dalgona.bo.settlement.vend.repository.mapper.OrderUnitSetlMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency" />
-      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
-      <item value="DISTINCT" />
-      <item value="Adjust" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="41" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="38" />
+        <entry key="KOREAN" value="41" />
       </map>
     </option>
   </component>
