@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="provider" />
+      <item value="get Item Setl List" />
       <item value="Vend Penalty Service" />
       <item value="reflection To String" />
       <item value="PROPAGATION REQUIRED" />
@@ -122,15 +124,13 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework" />
       <item value="total Setl Stat Grid" />
       <item value="The interface Parameter object." />
-      <item value="target amount" />
-      <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dalgona.bo.settlement.vend.repository.mapper.OrderUnitSetlMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="43" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="41" />
+        <entry key="KOREAN" value="43" />
       </map>
     </option>
   </component>
