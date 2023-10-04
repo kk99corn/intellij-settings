@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695690712747" />
+    <option name="lastTrimTime" value="1696381094398" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="approreconcile" />
       <item value="incomplete" />
       <item value="상품문의미완료" />
       <item value="Unreachable code" />
@@ -123,14 +124,13 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'repositoryRestConfigurationProvider' defined in class path resource" />
       <item value="Annotation Config Servlet Web Server Application Context" />
       <item value="Error creating bean with name 'repositoryRestConfigurationProvider' defined in class path resource" />
-      <item value="Unsatisfied dependency expressed through method 'repositoryRestConfigurationProvider' parameter 0; n" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="45" />
+        <entry key="KOREAN" value="46" />
       </map>
     </option>
   </component>
