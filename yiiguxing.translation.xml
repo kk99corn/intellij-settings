@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="AUTH INVALID USER ERROR" />
       <item value="table name &quot;h&quot; specified more than once" />
       <item value="Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'tosspaymentsJob' defined in file [C:\work\dalgona.payment.batch\target\classes\com\dalgona\tosspayments\job\TosspaymentsJob.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'tosspaymentsBeanFactory' defined in file [C:\work\dalgona.payment.batch\target\classes\com\dalgona\tosspayments\util\TosspaymentsBeanFactory.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'tosspaymentsCashReceipt' defined in file [C:\work\dalgona.payment.batch\target\classes\com\dalgona\tosspayments\biz\TosspaymentsCashReceipt.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'tosspaymentsServiceImpl': Unsatisfied dependency expressed through field 'orderCashReceiptCommandService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dalgona.order.service.api.OrderCashReceiptCommandService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
@@ -123,14 +124,13 @@
       <item value="대용량" />
       <item value="대랴" />
       <item value="대량" />
-      <item value="e" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="54" />
+        <entry key="KOREAN" value="55" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
