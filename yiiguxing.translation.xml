@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Oms Order Recv Controller" />
+      <item value="Oms Available Stock Controller" />
       <item value="response column exceed 12" />
       <item value="exceed" />
       <item value="AUTH INVALID USER ERROR" />
@@ -122,15 +124,13 @@
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')" />
       <item value="dalgona" />
       <item value="많은" />
-      <item value="대용랴" />
-      <item value="대용량" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="ENGLISH" value="59" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="57" />
+        <entry key="KOREAN" value="59" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
