@@ -70,10 +70,12 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696998780945" />
+    <option name="lastTrimTime" value="1697508051119" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="response column exceed 12" />
+      <item value="exceed" />
       <item value="AUTH INVALID USER ERROR" />
       <item value="table name &quot;h&quot; specified more than once" />
       <item value="Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
@@ -122,15 +124,13 @@
       <item value="많은" />
       <item value="대용랴" />
       <item value="대용량" />
-      <item value="대랴" />
-      <item value="대량" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="57" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="55" />
+        <entry key="KOREAN" value="57" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
