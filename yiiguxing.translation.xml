@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="assignment source returned 2 columns" />
       <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="Oms Order Recv Controller" />
       <item value="Oms Available Stock Controller" />
@@ -123,14 +124,13 @@
       <item value="java.lang.ClassCastException: class org.json.simple.JSONArray cannot be cast to class org.json.JSONArray (org.json.simple.JSONArray and org.json.JSONArray are in unnamed module of loader 'app')" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONArray (org.json.simple.JSONObject and org.json.JSONArray are in unnamed module of loader 'app')" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')" />
-      <item value="dalgona" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="60" />
+        <entry key="KOREAN" value="61" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
