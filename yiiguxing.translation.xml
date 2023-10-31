@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697508051119" />
+    <option name="lastTrimTime" value="1698748549392" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="Oms Order Recv Controller" />
       <item value="Oms Available Stock Controller" />
       <item value="response column exceed 12" />
@@ -123,14 +124,13 @@
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONArray (org.json.simple.JSONObject and org.json.JSONArray are in unnamed module of loader 'app')" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')" />
       <item value="dalgona" />
-      <item value="많은" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="59" />
+        <entry key="KOREAN" value="60" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
