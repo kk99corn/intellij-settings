@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1698748549392" />
+    <option name="lastTrimTime" value="1699415995426" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="process" />
       <item value="Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
       <item value="assignment source returned 2 columns" />
       <item value="The packaging for this project did not assign a file to the build artifact" />
@@ -123,14 +124,13 @@
       <item value="merge Splited Ord No" />
       <item value="splited List" />
       <item value="java.lang.ClassCastException: class org.json.simple.JSONArray cannot be cast to class org.json.JSONArray (org.json.simple.JSONArray and org.json.JSONArray are in unnamed module of loader 'app')" />
-      <item value="java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONArray (org.json.simple.JSONObject and org.json.JSONArray are in unnamed module of loader 'app')" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="62" />
+        <entry key="KOREAN" value="63" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
