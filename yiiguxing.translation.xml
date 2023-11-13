@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="avg dispatch daycount" />
+      <item value="avg dispathrate" />
       <item value="column &quot;vend_deduct_code&quot; does not exist" />
       <item value="process" />
       <item value="Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
@@ -122,15 +124,13 @@
       <item value="GPT-4 (rate-limited) and paid plans are now available in the easycode tab." />
       <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
       <item value="java.lang.NullPointerException: Cannot invoke &quot;com.dalgona.codemanager.dto.commoncode.CommonCodeResultResponseDto.toString()&quot; because &quot;commonCodeResultResponseDto&quot; is null" />
-      <item value="merge Splited Ord No" />
-      <item value="splited List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="66" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="64" />
+        <entry key="KOREAN" value="66" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
