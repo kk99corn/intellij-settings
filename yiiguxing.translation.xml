@@ -70,10 +70,12 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699415995426" />
+    <option name="lastTrimTime" value="1699939784410" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.evt.repository.entity.EvEventrankD at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583) at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evtEvEventrankDRepository' defined in com.dalgona.evt.repository.jpa.EvtEvEventrankDRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.evt.repository.entity.EvEventrankD" />
       <item value="avg dispatch daycount" />
       <item value="avg dispathrate" />
       <item value="column &quot;vend_deduct_code&quot; does not exist" />
@@ -122,15 +124,13 @@
       <item value="takeback delay" />
       <item value="Channel Settle Dto Channel Settle Query Dto" />
       <item value="GPT-4 (rate-limited) and paid plans are now available in the easycode tab." />
-      <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
-      <item value="java.lang.NullPointerException: Cannot invoke &quot;com.dalgona.codemanager.dto.commoncode.CommonCodeResultResponseDto.toString()&quot; because &quot;commonCodeResultResponseDto&quot; is null" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="68" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="66" />
+        <entry key="KOREAN" value="68" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
