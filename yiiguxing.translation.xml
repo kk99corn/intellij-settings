@@ -70,10 +70,13 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699939784410" />
+    <option name="lastTrimTime" value="1700462045326" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="&lt;operator&gt;, &lt;type&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH or '[' expected, got '–'" />
+      <item value="&lt;analytic clause&gt;, &lt;operator&gt;, &lt;string&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH, WITHIN or '[' expected, got '–'" />
+      <item value="'(', &lt;operator&gt;, &lt;string&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH or '[' expected, got '–'" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.evt.repository.entity.EvEventrankD at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583) at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evtEvEventrankDRepository' defined in com.dalgona.evt.repository.jpa.EvtEvEventrankDRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.evt.repository.entity.EvEventrankD" />
@@ -121,16 +124,13 @@
       <item value="cs emergency not complete cnt" />
       <item value="emergency" />
       <item value="Tag name expected" />
-      <item value="Ordering direction is redundant here" />
-      <item value="takeback delay" />
-      <item value="Channel Settle Dto Channel Settle Query Dto" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="68" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="69" />
+        <entry key="KOREAN" value="72" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
