@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="remove Space And Tab Word" />
+      <item value="word" />
       <item value="&lt;operator&gt;, &lt;type&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH or '[' expected, got '–'" />
       <item value="&lt;analytic clause&gt;, &lt;operator&gt;, &lt;string&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH, WITHIN or '[' expected, got '–'" />
       <item value="'(', &lt;operator&gt;, &lt;string&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH or '[' expected, got '–'" />
@@ -122,13 +124,11 @@
       <item value="lineNumber: 79; columnNumber: 34; The content of elements must consist of well-formed character data or markup." />
       <item value="09-22 10:08:39.848 [restartedMain] WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'vendPenaltyMapper' defined in file [C:\work\dalgona.po-web.webapp\target\classes\com\dalgona\po\settlement\etc\repository\mapper\VendPenaltyMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error creating document instance. Cause: org.xml.sax.SAXParseException; lineNumber: 79; columnNumber: 34; The content of elements must consist of well-formed character data or markup." />
       <item value="cs emergency not complete cnt" />
-      <item value="emergency" />
-      <item value="Tag name expected" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="70" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="72" />
         <entry key="ROMANIAN" value="1" />
