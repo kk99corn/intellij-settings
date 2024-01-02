@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="[ERROR] Failed to execute goal on project dalgona.po-web.webapp: Could not resolve dependencies for project com.dalgona:dalgona.po-web.webapp:jar:0.0.1-SNAPSHOT: The following artifacts could not be resolved: com.dalgona:dalgona.item-lib:jar:0.0.1-SNAPSHOT (present): Could not transfer artifact com.dalgona:dalgona.item-lib:jar:0.0.1-20240102.051039-509: C:\Users\park_minwoo04\.m2\repository\com\dalgona\dalgona.item-lib\0.0.1-SNAPSHOT\dalgona.item-lib-0.0.1-SNAPSHOT.jar.13861696489819459525.tmp -&gt; C:\Users\park_minwoo04\.m2\repository\com\dalgona\dalgona.item-lib\0.0.1-SNAPSHOT\dalgona.item-lib-0.0.1-SNAPSHOT.jar -&gt; [Help 1]" />
       <item value="is Ship Hope Day Appoint Poss" />
       <item value="principal" />
       <item value="principal day" />
@@ -123,14 +124,13 @@
       <item value="approreconcile" />
       <item value="incomplete" />
       <item value="상품문의미완료" />
-      <item value="Unreachable code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="85" />
+        <entry key="KOREAN" value="86" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
