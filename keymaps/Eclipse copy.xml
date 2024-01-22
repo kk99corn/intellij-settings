@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -47,7 +50,12 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
