@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Condition 'object instanceof Integer i' is always 'true'" />
       <item value="Returns an unmodifiable list containing one element. See Unmodifiable Lists for details." />
       <item value="Unsupported Operation Exception" />
       <item value="resolve Exception" />
@@ -123,14 +124,13 @@
       <item value="response column exceed 12" />
       <item value="exceed" />
       <item value="AUTH INVALID USER ERROR" />
-      <item value="table name &quot;h&quot; specified more than once" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="97" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="97" />
+        <entry key="KOREAN" value="98" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
