@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705879751329" />
+    <option name="lastTrimTime" value="1707372824618" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="PayUnsoldQueryDto" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named '{item' in 'class com.dalgona.bo.settlement.declare.dto.NationalTaxDtoNationalTaxQueryDto'" />
       <item value="Condition 'object instanceof Integer i' is always 'true'" />
       <item value="Returns an unmodifiable list containing one element. See Unmodifiable Lists for details." />
@@ -123,14 +124,13 @@
       <item value="Oms Order Recv Controller" />
       <item value="Oms Available Stock Controller" />
       <item value="response column exceed 12" />
-      <item value="exceed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="98" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="98" />
+        <entry key="KOREAN" value="99" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
