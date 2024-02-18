@@ -70,10 +70,15 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1707372824618" />
+    <option name="lastTrimTime" value="1708299091349" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Parameter 0 of method entityManagerFactory in com.dalgona.framework.config.datasource.DataSourceConfig required a bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' that could not be found." />
+      <item value="02-19 08:35:15.556 [main] ERROR o.s.test.context.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@878452d] to prepare test instance [com.dalgona.bo.settlement.extmall.service.api.ExtMallSetlReconServiceTest@3592c1c4]" />
+      <item value="Field mybatisProperties in com.dalgona.framework.config.datasource.MybatisConfig required a bean of type 'org.mybatis.spring.boot.autoconfigure.MybatisProperties' that could not be found." />
+      <item value="xxxxxxxxxxxxxxxxxxx" />
+      <item value="02-19 08:31:13.899 [main] WARN o.s.w.c.s.GenericWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'entityManagerFactory' defined in com.dalgona.framework.config.datasource.DataSourceConfig: Unsatisfied dependency expressed through method 'entityManagerFactory' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="PayUnsoldQueryDto" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named '{item' in 'class com.dalgona.bo.settlement.declare.dto.NationalTaxDtoNationalTaxQueryDto'" />
       <item value="Condition 'object instanceof Integer i' is always 'true'" />
@@ -99,7 +104,6 @@
       <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'channelCommandMapper' defined in file [C:\work\dalgona.bo-web.webapp\target\classes\com\dalgona\bo\channel\repository\mapper\ChannelCommandMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mybatisConfig': Unsatisfied dependency expressed through field 'mybatisProperties'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.mybatis.spring.boot.autoconfigure.MybatisProperties' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.dalgona.bo.settlement.extmall.service.api.ExtMallSetlReconCommandServiceImplTest': Unsatisfied dependency expressed through field 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.apache.ibatis.session.SqlSessionFactory' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.dalgona.bo.settlement.extmall.service.api.ExtMallSetlReconCommandServiceImplTest': Unsatisfied dependency expressed through field 'mapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dalgona.bo.settlement.extmall.repository.mapper.ExtMallSetlReconMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="Parameter 0 of method entityManagerFactory in com.dalgona.framework.config.datasource.DataSourceConfig required a bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' that could not be found." />
       <item value="Caused by: java.lang.IllegalStateException: No ConfigurationProperties annotation found on 'javax.persistence.EntityManagerFactory'." />
       <item value="statement Type" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: The expression 'externalMallSetlNoList' evaluated to a null value." />
@@ -120,17 +124,13 @@
       <item value="process" />
       <item value="Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
       <item value="assignment source returned 2 columns" />
-      <item value="The packaging for this project did not assign a file to the build artifact" />
-      <item value="Oms Order Recv Controller" />
-      <item value="Oms Available Stock Controller" />
-      <item value="response column exceed 12" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="104" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="99" />
+        <entry key="KOREAN" value="104" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
