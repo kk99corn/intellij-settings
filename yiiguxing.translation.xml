@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'entityManagerFactory' defined in com.dalgona.framework.config.datasource.DataSourceConfig: Unsatisfied dependency expressed through method 'entityManagerFactory' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
+      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Parameter 0 of method entityManagerFactory in com.dalgona.framework.config.datasource.DataSourceConfig required a bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' that could not be found." />
       <item value="02-19 08:35:15.556 [main] ERROR o.s.test.context.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@878452d] to prepare test instance [com.dalgona.bo.settlement.extmall.service.api.ExtMallSetlReconServiceTest@3592c1c4]" />
       <item value="Field mybatisProperties in com.dalgona.framework.config.datasource.MybatisConfig required a bean of type 'org.mybatis.spring.boot.autoconfigure.MybatisProperties' that could not be found." />
@@ -122,15 +124,13 @@
       <item value="avg dispathrate" />
       <item value="column &quot;vend_deduct_code&quot; does not exist" />
       <item value="process" />
-      <item value="Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
-      <item value="assignment source returned 2 columns" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="106" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="104" />
+        <entry key="KOREAN" value="106" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
