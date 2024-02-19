@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="2024-02-19T10:52:09.368+09:00 WARN 110580 --- [ main] o.s.w.c.s.GenericWebApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [comdalgonadbtestconfigMybatisConfig.class]: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception with message: orgspringframeworkcoreNestedIOException" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [comdalgonadbtestconfigMybatisConfig.class]: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception with message: orgspringframeworkcoreNestedIOException" />
       <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'loginServiceAdapter' defined in class path resource [comdalgonaboorderTestOrderLoginServiceConfig.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=testOrderLoginServiceConfig; factoryMethodName=loginServiceAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonaboorderTestOrderLoginServiceConfig.class]] for bean 'loginServiceAdapter': There is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=homeControllerTest.LoginServiceConfig; factoryMethodName=loginServiceAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonabohomecontrollerHomeControllerTestLoginServiceConfig.class]] bound." />
       <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'entityManagerFactory' defined in class path resource [comdalgonaframeworkconfigdatasourceTestDataSourceConfig.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=testDataSourceConfig; factoryMethodName=entityManagerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonaframeworkconfigdatasourceTestDataSourceConfig.class]] for bean 'entityManagerFactory': There is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=dataSourceConfig; factoryMethodName=entityManagerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonaframeworkconfigdatasourceDataSourceConfig.class]] bound." />
       <item value="candidate" />
@@ -122,15 +124,13 @@
       <item value="&lt;analytic clause&gt;, &lt;operator&gt;, &lt;string&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH, WITHIN or '[' expected, got '–'" />
       <item value="'(', &lt;operator&gt;, &lt;string&gt;, AT, ISNULL, NOTNULL, OPERATOR, TIME, WITH or '[' expected, got '–'" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.evt.repository.entity.EvEventrankD at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583) at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'evtEvEventrankDRepository' defined in com.dalgona.evt.repository.jpa.EvtEvEventrankDRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.evt.repository.entity.EvEventrankD" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="ENGLISH" value="116" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="114" />
+        <entry key="KOREAN" value="116" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
