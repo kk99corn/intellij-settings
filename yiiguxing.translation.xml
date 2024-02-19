@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="2024-02-19T12:14:44.083+09:00 WARN 99472 --- [ main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\controller\TestController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'testServiceImpl' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\service\TestServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.dalgona.dbtest.mapper.TestMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Test Service" />
       <item value="2024-02-19T12:05:33.513+09:00 WARN 42532 --- [ main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\controller\TestController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'testService' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\service\TestService.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.dalgona.dbtest.mapper.TestMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
@@ -123,14 +124,13 @@
       <item value="Legalholiday" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.example.playground.f1.repository.PersonMapper.getPerson" />
       <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'channelCommandMapper' defined in file [C:\work\dalgona.bo-web.webapp\target\classes\com\dalgona\bo\channel\repository\mapper\ChannelCommandMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mybatisConfig': Unsatisfied dependency expressed through field 'mybatisProperties'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.mybatis.spring.boot.autoconfigure.MybatisProperties' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.dalgona.bo.settlement.extmall.service.api.ExtMallSetlReconCommandServiceImplTest': Unsatisfied dependency expressed through field 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.apache.ibatis.session.SqlSessionFactory' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="130" />
+        <entry key="KOREAN" value="131" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
