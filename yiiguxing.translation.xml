@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1708299091349" />
+    <option name="lastTrimTime" value="1709297794141" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="03-01 21:56:09.123 [http-nio-7777-exec-1] DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@1193318146 wrapping org.postgresql.jdbc.PgConnection@4d6b3138] will not be managed by Spring" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="The bean 'entityManagerFactory', defined in class path resource [comdalgonaframeworkconfigdatasourceTestDataSourceConfig.class], could not be registered. A bean with that name has already been defined in class path resource [comdalgonaframeworkconfigdatasourceDataSourceConfig.class] and overriding is disabled." />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.dalgona.payco.repository.mapper.PaycoCommandMapper.count" />
@@ -123,14 +124,13 @@
       <item value="[ERROR] Failed to execute goal on project dalgona.po-web.webapp: Could not resolve dependencies for project com.dalgona:dalgona.po-web.webapp:jar:0.0.1-SNAPSHOT: The following artifacts could not be resolved: com.dalgona:dalgona.item-lib:jar:0.0.1-SNAPSHOT (present): Could not transfer artifact com.dalgona:dalgona.item-lib:jar:0.0.1-20240102.051039-509: C:\Users\park_minwoo04\.m2\repository\com\dalgona\dalgona.item-lib\0.0.1-SNAPSHOT\dalgona.item-lib-0.0.1-SNAPSHOT.jar.13861696489819459525.tmp -&gt; C:\Users\park_minwoo04\.m2\repository\com\dalgona\dalgona.item-lib\0.0.1-SNAPSHOT\dalgona.item-lib-0.0.1-SNAPSHOT.jar -&gt; [Help 1]" />
       <item value="is Ship Hope Day Appoint Poss" />
       <item value="principal" />
-      <item value="principal day" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="134" />
+        <entry key="KOREAN" value="135" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
