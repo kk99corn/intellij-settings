@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="'serialVersionUID' can be annotated with '@Serial' annotation" />
       <item value="Caused by: org.apache.ibatis.binding.BindingException: Parameter 'a' not found. Available parameters are [b, am87s6XXXasml78777, param1, param2]" />
       <item value="Error querying database. Cause: org.postgresql.util.PSQLException: ERROR: relation &quot;se_pgdeposetl_p&quot; does not exist" />
       <item value="Create a timeout exception (specifically, SQLTransientConnectionException) to be thrown, because a timeout occurred when trying to acquire a Connection from the pool. If there was an underlying cause for the timeout, e.g. a SQLException thrown by the driver while trying to create a new Connection, then use the SQL State from that exception as our own and additionally set that exception as the &quot;next&quot; SQLException inside of our exception. As a side-effect, log the timeout failure at DEBUG, and record the timeout failure in the metrics tracker. Params: startTime – the start time (timestamp) of the acquisition attempt Returns: a SQLException to be thrown from getConnection()" />
@@ -123,14 +124,13 @@
       <item value="with Day Of Month" />
       <item value="previous" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap'" />
-      <item value="select Will Call Poss Dates" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="138" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="138" />
+        <entry key="KOREAN" value="139" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
