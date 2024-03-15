@@ -74,6 +74,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="find Dummys" />
+      <item value="Dummy Job" />
       <item value="'serialVersionUID' can be annotated with '@Serial' annotation" />
       <item value="Caused by: org.apache.ibatis.binding.BindingException: Parameter 'a' not found. Available parameters are [b, am87s6XXXasml78777, param1, param2]" />
       <item value="Error querying database. Cause: org.postgresql.util.PSQLException: ERROR: relation &quot;se_pgdeposetl_p&quot; does not exist" />
@@ -122,15 +124,13 @@
       <item value="Http Message Not Readable Exception" />
       <item value="Method Argument Not Valid Exception" />
       <item value="with Day Of Month" />
-      <item value="previous" />
-      <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="ENGLISH" value="140" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="139" />
+        <entry key="KOREAN" value="140" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
