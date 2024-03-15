@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Contents of collection 'httpHeaders' are updated, but never queried" />
       <item value="Fewer arguments provided (0) than placeholders specified (1)" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="call Api For Rest Template" />
@@ -123,14 +124,13 @@
       <item value="resolve Exception" />
       <item value="Handler Exception Resolver" />
       <item value="Contents of collection 'param' are updated, but never queried" />
-      <item value="java.lang.NullPointerException: Cannot invoke &quot;java.lang.Long.longValue()&quot; because the return value of &quot;com.dalgona.po.settlement.extmall.dto.ExtMallSetlDiffDtoExtMallSetlDiffSumQueryResultDto.getSumSetlDiffAmount()&quot; is null" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="142" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="144" />
+        <entry key="KOREAN" value="145" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
