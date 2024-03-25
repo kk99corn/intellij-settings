@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710225021259" />
+    <option name="lastTrimTime" value="1710994801565" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Redundant boxing, 'Boolean.parseBoolean()' call can be used instead" />
       <item value="Contents of collection 'httpHeaders' are updated, but never queried" />
       <item value="Fewer arguments provided (0) than placeholders specified (1)" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
@@ -123,14 +124,13 @@
       <item value="Unsupported Operation Exception" />
       <item value="resolve Exception" />
       <item value="Handler Exception Resolver" />
-      <item value="Contents of collection 'param' are updated, but never queried" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="142" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="145" />
+        <entry key="KOREAN" value="146" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
