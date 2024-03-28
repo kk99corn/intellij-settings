@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Invalid bound statement" />
       <item value="find Membership Pays" />
       <item value="deposit" />
       <item value="Redundant boxing, 'Boolean.parseBoolean()' call can be used instead" />
@@ -123,12 +124,11 @@
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named '{item' in 'class com.dalgona.bo.settlement.declare.dto.NationalTaxDtoNationalTaxQueryDto'" />
       <item value="Condition 'object instanceof Integer i' is always 'true'" />
       <item value="Returns an unmodifiable list containing one element. See Unmodifiable Lists for details." />
-      <item value="Unsupported Operation Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="146" />
         <entry key="LATIN" value="1" />
