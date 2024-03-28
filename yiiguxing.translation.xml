@@ -70,10 +70,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710994801565" />
+    <option name="lastTrimTime" value="1711608703235" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="find Membership Pays" />
       <item value="deposit" />
       <item value="Redundant boxing, 'Boolean.parseBoolean()' call can be used instead" />
       <item value="Contents of collection 'httpHeaders' are updated, but never queried" />
@@ -123,12 +124,11 @@
       <item value="Condition 'object instanceof Integer i' is always 'true'" />
       <item value="Returns an unmodifiable list containing one element. See Unmodifiable Lists for details." />
       <item value="Unsupported Operation Exception" />
-      <item value="resolve Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="146" />
         <entry key="LATIN" value="1" />
