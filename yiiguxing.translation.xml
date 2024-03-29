@@ -74,6 +74,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="03-30 03:49:29.231 [asyncExecutor-1] DEBUG o.s.o.j.JpaTransactionManager - Initiating transaction rollback" />
+      <item value="03-30 03:41:18.494 [Leader housekeeper] DEBUG c.z.h.pool.HikariPool - Leader - Pool stats (total=4, active=0, idle=4, waiting=0)" />
+      <item value="03-30 03:41:18.494 [Leader housekeeper] DEBUG c.z.h.pool.HikariPool - Leader - Fill pool skipped, pool is at sufficient level." />
+      <item value="Initiating transaction rollback" />
       <item value="Autowired" />
       <item value="reason: actual and formal argument lists differ in length" />
       <item value="java: constructor MembershipPaySetlDto in class com.dalgona.membership.settle.dto.MembershipPaySetlDto cannot be applied to given types;" />
@@ -120,17 +124,13 @@
       <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'loginServiceAdapter' defined in class path resource [comdalgonaboorderTestOrderLoginServiceConfig.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=testOrderLoginServiceConfig; factoryMethodName=loginServiceAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonaboorderTestOrderLoginServiceConfig.class]] for bean 'loginServiceAdapter': There is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=homeControllerTest.LoginServiceConfig; factoryMethodName=loginServiceAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonabohomecontrollerHomeControllerTestLoginServiceConfig.class]] bound." />
       <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'entityManagerFactory' defined in class path resource [comdalgonaframeworkconfigdatasourceTestDataSourceConfig.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=testDataSourceConfig; factoryMethodName=entityManagerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonaframeworkconfigdatasourceTestDataSourceConfig.class]] for bean 'entityManagerFactory': There is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=dataSourceConfig; factoryMethodName=entityManagerFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comdalgonaframeworkconfigdatasourceDataSourceConfig.class]] bound." />
       <item value="candidate" />
-      <item value="exclude" />
-      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'entityManagerFactory' defined in com.dalgona.framework.config.datasource.DataSourceConfig: Unsatisfied dependency expressed through method 'entityManagerFactory' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="Parameter 0 of method entityManagerFactory in com.dalgona.framework.config.datasource.DataSourceConfig required a bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' that could not be found." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="ENGLISH" value="157" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="153" />
+        <entry key="KOREAN" value="157" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
