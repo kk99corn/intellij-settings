@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Autowired" />
       <item value="reason: actual and formal argument lists differ in length" />
       <item value="java: constructor MembershipPaySetlDto in class com.dalgona.membership.settle.dto.MembershipPaySetlDto cannot be applied to given types;" />
       <item value="Caused by: java.lang.NullPointerException: Cannot invoke &quot;java.lang.Long.longValue()&quot; because the return value of &quot;com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.findMemberShipPaySetlMaxSetlPaySn(String)&quot; is null" />
@@ -123,14 +124,13 @@
       <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'entityManagerFactory' defined in com.dalgona.framework.config.datasource.DataSourceConfig: Unsatisfied dependency expressed through method 'entityManagerFactory' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Parameter 0 of method entityManagerFactory in com.dalgona.framework.config.datasource.DataSourceConfig required a bean of type 'org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder' that could not be found." />
-      <item value="02-19 08:35:15.556 [main] ERROR o.s.test.context.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@878452d] to prepare test instance [com.dalgona.bo.settlement.extmall.service.api.ExtMallSetlReconServiceTest@3592c1c4]" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="152" />
+        <entry key="KOREAN" value="153" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
