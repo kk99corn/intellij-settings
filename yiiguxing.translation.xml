@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="select Membership Pay PG Depo Setl Exsist" />
       <item value="Error querying database. Cause: java.lang.IndexOutOfBoundsException: Index 10 out of bounds for length 10" />
       <item value="A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.selectMembershipPaySetlMaxSetlPaySn'." />
       <item value="java.util.concurrent.ExecutionException: java.lang.RuntimeException: execute 오류 발생: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.selectMembershipPaySetlMaxSetlPaySn'. It's likely that neither a Result Type nor a Result Map was specified. at java.basejava.util.concurrent.FutureTask.report(FutureTask.java:122) at java.basejava.util.concurrent.FutureTask.get(FutureTask.java:191)" />
@@ -123,14 +124,13 @@
       <item value="Test Service" />
       <item value="2024-02-19T12:05:33.513+09:00 WARN 42532 --- [ main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\controller\TestController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'testService' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\service\TestService.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.dalgona.dbtest.mapper.TestMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Caused by: java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required" />
-      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testService' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\service\TestService.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'testMapper' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\mapper\TestMapper.class]: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="170" />
+        <entry key="KOREAN" value="171" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
