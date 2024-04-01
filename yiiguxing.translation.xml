@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="04-01 16:31:29.479 [asyncExecutor-1] INFO c.d.f.t.a.AspectForTransaction - 트랜잭션 경계 구분 확인 종료 com.dalgona.membership.settle.service.MembershipPaySettleCommandService.saveMembershipPayPGDepoSetl false" />
       <item value="clause" />
       <item value="select Membership Pay PG Depo Setl Exsist" />
       <item value="Error querying database. Cause: java.lang.IndexOutOfBoundsException: Index 10 out of bounds for length 10" />
@@ -123,14 +124,13 @@
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="2024-02-19T12:14:44.083+09:00 WARN 99472 --- [ main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\controller\TestController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'testServiceImpl' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\service\TestServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.dalgona.dbtest.mapper.TestMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Test Service" />
-      <item value="2024-02-19T12:05:33.513+09:00 WARN 42532 --- [ main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testController' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\controller\TestController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'testService' defined in file [C:\work\dbtest\dbtest\out\production\classes\com\dalgona\dbtest\service\TestService.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.dalgona.dbtest.mapper.TestMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="173" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="172" />
+        <entry key="KOREAN" value="173" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
