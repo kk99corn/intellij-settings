@@ -74,6 +74,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="exist Membership Pay Setl For LST" />
       <item value="org.postgresql.util.PSQLException: Bad value for type long : P2307163997947" />
       <item value="select Tosspay Pay Appro Rec By Billing" />
       <item value="04-01 16:31:29.479 [asyncExecutor-1] INFO c.d.f.t.a.AspectForTransaction - 트랜잭션 경계 구분 확인 종료 com.dalgona.membership.settle.service.MembershipPaySettleCommandService.saveMembershipPayPGDepoSetl false" />
@@ -123,14 +124,13 @@
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="The bean 'entityManagerFactory', defined in class path resource [comdalgonaframeworkconfigdatasourceTestDataSourceConfig.class], could not be registered. A bean with that name has already been defined in class path resource [comdalgonaframeworkconfigdatasourceDataSourceConfig.class] and overriding is disabled." />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.dalgona.payco.repository.mapper.PaycoCommandMapper.count" />
-      <item value="The dependencies of some of the beans in the application context form a cycle:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="ENGLISH" value="176" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="175" />
+        <entry key="KOREAN" value="176" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
