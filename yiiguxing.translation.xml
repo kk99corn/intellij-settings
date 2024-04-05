@@ -79,6 +79,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="598" />
     <histories>
+      <item value="java.util.concurrent.ExecutionException: org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.dalgona.tosspayments.repository.mapper.MembershipPayPgDpositCommandMapper.updateMembershipPayPgDepoSetl at java.basejava.util.concurrent.FutureTask.report(FutureTask.java:122) at java.basejava.util.concurrent.FutureTask.get(FutureTask.java:191)" />
       <item value="exsist" />
       <item value="exist" />
       <item value="exist Membership Pay Setl For LST" />
@@ -128,12 +129,11 @@
       <item value="Error querying database. Cause: org.postgresql.util.PSQLException: ERROR: relation &quot;se_pgdeposetl_p&quot; does not exist" />
       <item value="Create a timeout exception (specifically, SQLTransientConnectionException) to be thrown, because a timeout occurred when trying to acquire a Connection from the pool. If there was an underlying cause for the timeout, e.g. a SQLException thrown by the driver while trying to create a new Connection, then use the SQL State from that exception as our own and additionally set that exception as the &quot;next&quot; SQLException inside of our exception. As a side-effect, log the timeout failure at DEBUG, and record the timeout failure in the metrics tracker. Params: startTime – the start time (timestamp) of the acquisition attempt Returns: a SQLException to be thrown from getConnection()" />
       <item value="03-01 21:56:09.123 [http-nio-7777-exec-1] DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@1193318146 wrapping org.postgresql.jdbc.PgConnection@4d6b3138] will not be managed by Spring" />
-      <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="180" />
         <entry key="LATIN" value="1" />
