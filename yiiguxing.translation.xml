@@ -79,6 +79,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="596" />
     <histories>
+      <item value="WHERE setl_dt = '20240411'::date was aborted: ERROR: column &quot;nullins&quot; does not exist" />
       <item value="Following columns have no computeddefault value and must be listed explicitly:" />
       <item value="exist Dto" />
       <item value="This generated password is for development use only. Your security configuration must be updated before running your application in production." />
@@ -128,12 +129,11 @@
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="call Api For Rest Template" />
       <item value="call Api To Rest Template" />
-      <item value="find Dummys" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="185" />
         <entry key="LATIN" value="1" />
