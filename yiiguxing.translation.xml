@@ -79,6 +79,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="598" />
     <histories>
+      <item value="exist Dto" />
       <item value="This generated password is for development use only. Your security configuration must be updated before running your application in production." />
       <item value="04-16 19:21:12.543 [http-nio-8080-exec-2] INFO c.d.b.l.s.AccountLoginServiceImpl - XXXXXXXXXXXXXXXXXX: XML fragments parsed from previous mappers does not contain value for com.dalgona.bo.settlement.deposit.repository.mapper.MembershipPayReconcileCommandMapper.selectApproDetails-select" />
       <item value="Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.activityscore.domain.MbActivityscoreTradeP" />
@@ -128,14 +129,13 @@
       <item value="call Api To Rest Template" />
       <item value="find Dummys" />
       <item value="Dummy Job" />
-      <item value="'serialVersionUID' can be annotated with '@Serial' annotation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="183" />
+        <entry key="KOREAN" value="184" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
