@@ -79,6 +79,9 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="596" />
     <histories>
+      <item value="Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'comdalgonabosettlementdepositrepositorymapperMbrshipPayReconCommandMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
+      <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
+      <item value="Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
       <item value="WHERE setl_dt = '20240411'::date was aborted: ERROR: column &quot;nullins&quot; does not exist" />
       <item value="Following columns have no computeddefault value and must be listed explicitly:" />
       <item value="exist Dto" />
@@ -126,16 +129,13 @@
       <item value="Redundant boxing, 'Boolean.parseBoolean()' call can be used instead" />
       <item value="Contents of collection 'httpHeaders' are updated, but never queried" />
       <item value="Fewer arguments provided (0) than placeholders specified (1)" />
-      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
-      <item value="call Api For Rest Template" />
-      <item value="call Api To Rest Template" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="188" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="185" />
+        <entry key="KOREAN" value="188" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
