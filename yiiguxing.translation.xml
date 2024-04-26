@@ -79,6 +79,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="592" />
     <histories>
+      <item value="Copyright 2015, The Querydsl Team (http:www.querydsl.comteam) Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
       <item value="It's possible to extract method returning 'sapIfDto' from a long surrounding method" />
       <item value="04-23 11:02:19.888 [http-nio-8080-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.bo.settlement.deposit.repository.mapper.MbrshipPayReconCommandMapper.selectMbrshipPayDepositSapSubmitAmountCount'. It's likely that neither a Result Type nor a Result Map was specified.] with root cause" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.bo.settlement.deposit.repository.mapper.MbrshipPayReconCommandMapper.selectMbrshipPayDepositSapSubmitAmountCount'. It's likely that neither a Result Type nor a Result Map was specified." />
@@ -128,12 +129,11 @@
       <item value="process" />
       <item value="Invalid bound statement" />
       <item value="find Membership Pays" />
-      <item value="deposit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="192" />
         <entry key="LATIN" value="1" />
