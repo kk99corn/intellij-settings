@@ -79,6 +79,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="592" />
     <histories>
+      <item value="해지" />
       <item value="get Period Elapsed Contract Amount" />
       <item value="Copyright 2015, The Querydsl Team (http:www.querydsl.comteam) Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
       <item value="It's possible to extract method returning 'sapIfDto' from a long surrounding method" />
@@ -128,14 +129,13 @@
       <item value="Cause: org.postgresql.util.PSQLException: ERROR: cannot cast type integer to date" />
       <item value="RETURNING count() was aborted: ERROR: aggregate functions are not allowed in RETURNING" />
       <item value="process" />
-      <item value="Invalid bound statement" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="192" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="192" />
+        <entry key="KOREAN" value="193" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
