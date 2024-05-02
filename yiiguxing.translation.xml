@@ -79,6 +79,9 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="592" />
     <histories>
+      <item value="Membership Setl Command Service Impl" />
+      <item value="save Settlement" />
+      <item value="save Unsubscribe" />
       <item value="해지" />
       <item value="get Period Elapsed Contract Amount" />
       <item value="Copyright 2015, The Querydsl Team (http:www.querydsl.comteam) Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
@@ -126,16 +129,13 @@
       <item value="java: constructor MembershipPaySetlDto in class com.dalgona.membership.settle.dto.MembershipPaySetlDto cannot be applied to given types;" />
       <item value="Caused by: java.lang.NullPointerException: Cannot invoke &quot;java.lang.Long.longValue()&quot; because the return value of &quot;com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.findMemberShipPaySetlMaxSetlPaySn(String)&quot; is null" />
       <item value="Caused by: org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.findMemberShipPaySetlMaxSetlPaySn'. It's likely that neither a Result Type nor a Result Map was specified." />
-      <item value="Cause: org.postgresql.util.PSQLException: ERROR: cannot cast type integer to date" />
-      <item value="RETURNING count() was aborted: ERROR: aggregate functions are not allowed in RETURNING" />
-      <item value="process" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="195" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="193" />
+        <entry key="KOREAN" value="195" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
