@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1714373326695" />
+    <option name="lastTrimTime" value="1714808824167" />
   </component>
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
@@ -79,6 +79,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="592" />
     <histories>
+      <item value=") was aborted: ERROR: syntax error at or near &quot;)&quot;" />
       <item value="Exist" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyPayifLFoRepository' defined in com.dalgona.payment.repository.jpa.PyPayifLFoRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.payment.domain.PaymentLibPyPayifL" />
       <item value="Membership Setl Command Service Impl" />
@@ -128,12 +129,11 @@
       <item value="Initiating transaction rollback" />
       <item value="Autowired" />
       <item value="reason: actual and formal argument lists differ in length" />
-      <item value="java: constructor MembershipPaySetlDto in class com.dalgona.membership.settle.dto.MembershipPaySetlDto cannot be applied to given types;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="HINDI" value="1" />
         <entry key="KOREAN" value="197" />
         <entry key="LATIN" value="1" />
