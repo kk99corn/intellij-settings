@@ -73,12 +73,12 @@
     <option name="lastTrimTime" value="1714808824167" />
   </component>
   <component name="Translation.States">
-    <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="1164" />
     <option name="translationDialogLocationY" value="650" />
-    <option name="translationDialogWidth" value="592" />
+    <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap'" />
       <item value="previous" />
       <item value="Summary" />
@@ -128,14 +128,13 @@
       <item value="Id" />
       <item value="03-30 03:49:29.231 [asyncExecutor-1] DEBUG o.s.o.j.JpaTransactionManager - Initiating transaction rollback" />
       <item value="03-30 03:41:18.494 [Leader housekeeper] DEBUG c.z.h.pool.HikariPool - Leader - Pool stats (total=4, active=0, idle=4, waiting=0)" />
-      <item value="03-30 03:41:18.494 [Leader housekeeper] DEBUG c.z.h.pool.HikariPool - Leader - Fill pool skipped, pool is at sufficient level." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="199" />
         <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="200" />
+        <entry key="KOREAN" value="201" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
