@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715773154543" />
+    <option name="lastTrimTime" value="1716264293239" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,8 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="select Lcif Membership Daliy Setl" />
+      <item value="insert Membership Daily Setl" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="java.util.concurrent.ExecutionException: java.lang.RuntimeException: execute 오류 발생: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.etcsale.repository.mapper.MembershipEtcSaleErpIfCommandMapper.selectLcifMembershipDaliySetlCountByLkgDate'. It's likely that neither a Result Type nor a Result Map was specified." />
@@ -126,15 +128,13 @@
       <item value="03-30 12:31:10.988 [asyncExecutor-1] INFO o.h.e.i.DefaultLoadEventListener - HHH000327: Error performing load command" />
       <item value="Entity" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'membershipPaySetlRepository' defined in com.dalgona.membership.settle.repository.MembershipPaySetlRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.membership.settle.entity.MembershipPaySetl" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.membership.settle.entity.MembershipPaySetl at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:583) at org.hibernate.metamodel.internal.MetamodelImpl.managedType(MetamodelImpl.java:85)" />
-      <item value="java: constructor MembershipPaySetl in class com.dalgona.membership.settle.entity.MembershipPaySetl cannot be applied to given types;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="203" />
-        <entry key="HINDI" value="1" />
-        <entry key="KOREAN" value="203" />
+        <entry key="ENGLISH" value="204" />
+        <entry key="HINDI" value="2" />
+        <entry key="KOREAN" value="205" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
