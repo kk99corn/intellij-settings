@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1716264293239" />
+    <option name="lastTrimTime" value="1717468146236" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,8 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="The time unit is milliseconds by default but can be overridden via timeUnit." />
+      <item value="Execute the annotated method with a fixed period between invocations." />
       <item value="select Lcif Membership Daliy Setl" />
       <item value="insert Membership Daily Setl" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
@@ -126,15 +128,13 @@
       <item value="org.postgresql.util.PSQLException: ERROR: operator does not exist: date = character varying" />
       <item value="03-30 12:31:10.985 [asyncExecutor-1] ERROR jdbc.sqltiming - 4. PreparedStatement.executeQuery() FAILED! load com.dalgona.bo.sample.tutorial.domain.MembershipPaySetl select membership0_.SETL_DT as setl_dt1_499_0_, membership0_.SETL_PAY_SN as setl_pay2_499_0_, membership0_.BILLING_ORD_NO as billing_3_499_0_, membership0_.BILLING_TRADE_NO as billing_4_499_0_, membership0_.CARD_BUYCO_CODE as card_buy5_499_0_, membership0_.MANUAL_SETL_YN as manual_s6_499_0_, membership0_.MBR_NO as mbr_no7_499_0_, membership0_.MEMBERSHIP_NO as membersh8_499_0_, membership0_.MEMBERSHIP_PAY_NO as membersh9_499_0_, membership0_.MOD_TS as mod_ts10_499_0_, membership0_.MODPSN_ID as modpsn_11_499_0_, membership0_.ORG_MEMBERSHIP_PAY_NO as org_mem12_499_0_, membership0_.PAY_AMOUNT as pay_amo13_499_0_, membership0_.PAY_COMPLETE_TS as pay_com14_499_0_, membership0_.PAY_DCODE as pay_dco15_499_0_, membership0_.PAY_MEAN_KCODE as pay_mea16_499_0_, membership0_.PAY_PROC_SN as pay_pro17_499_0_, membership0_.REG_TS as reg_ts18_499_0_, membership0_.REGPSN_ID as regpsn_19_499_0_, membership0_.VAN_DCODE as van_dco20_499_0_ from SE_MEMBERSHIPPAYSETL_P membership0_ where membership0_.SETL_DT='20240327' and membership0_.SETL_PAY_SN=1 {FAILED after 4 msec}" />
       <item value="03-30 12:31:10.988 [asyncExecutor-1] INFO o.h.e.i.DefaultLoadEventListener - HHH000327: Error performing load command" />
-      <item value="Entity" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'membershipPaySetlRepository' defined in com.dalgona.membership.settle.repository.MembershipPaySetlRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.membership.settle.entity.MembershipPaySetl" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="ENGLISH" value="206" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="205" />
+        <entry key="KOREAN" value="206" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
