@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719271181122" />
+    <option name="lastTrimTime" value="1719959399822" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="수수료정산" />
       <item value="dependency" />
       <item value="Result of 'Long.parseLong()' is ignored" />
       <item value="cannot find symbol" />
@@ -127,14 +128,13 @@
       <item value="A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.selectMembershipPaySetlMaxSetlPaySn'." />
       <item value="java.util.concurrent.ExecutionException: java.lang.RuntimeException: execute 오류 발생: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.selectMembershipPaySetlMaxSetlPaySn'. It's likely that neither a Result Type nor a Result Map was specified. at java.basejava.util.concurrent.FutureTask.report(FutureTask.java:122) at java.basejava.util.concurrent.FutureTask.get(FutureTask.java:191)" />
       <item value="'selectMembershipPaySetlMaxSetlPaySn(String)' clashes with 'selectMembershipPaySetlMaxSetlPaySn(String)'; both methods have same erasure" />
-      <item value="Caused by: org.springframework.dao.InvalidDataAccessApiUsageException: Can not set java.lang.String field com.dalgona.bo.sample.tutorial.domain.MembershipPaySetlId.setlDt to java.time.LocalDate; nested exception is java.lang.IllegalArgumentException: Can not set java.lang.String field com.dalgona.bo.sample.tutorial.domain.MembershipPaySetlId.setlDt to java.time.LocalDate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="208" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="208" />
+        <entry key="KOREAN" value="209" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
