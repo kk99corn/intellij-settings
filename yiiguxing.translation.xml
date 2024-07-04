@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyMembershippayPRepository' defined in com.dalgona.membership.repository.jpa.PyMembershippayPRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.membership.domain.PyMembershippayPCustom" />
       <item value="수수료정산" />
       <item value="dependency" />
       <item value="Result of 'Long.parseLong()' is ignored" />
@@ -127,12 +128,11 @@
       <item value="Error querying database. Cause: java.lang.IndexOutOfBoundsException: Index 10 out of bounds for length 10" />
       <item value="A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.selectMembershipPaySetlMaxSetlPaySn'." />
       <item value="java.util.concurrent.ExecutionException: java.lang.RuntimeException: execute 오류 발생: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.settle.repository.mapper.MembershipPaySettleCommandMapper.selectMembershipPaySetlMaxSetlPaySn'. It's likely that neither a Result Type nor a Result Map was specified. at java.basejava.util.concurrent.FutureTask.report(FutureTask.java:122) at java.basejava.util.concurrent.FutureTask.get(FutureTask.java:191)" />
-      <item value="'selectMembershipPaySetlMaxSetlPaySn(String)' clashes with 'selectMembershipPaySetlMaxSetlPaySn(String)'; both methods have same erasure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="HINDI" value="2" />
         <entry key="KOREAN" value="209" />
         <entry key="LATIN" value="1" />
