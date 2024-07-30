@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="PT-4 (rate-limited) and paid plans are now available in the easycode tab." />
       <item value="org.postgresql.util.PSQLException: ERROR: procedure se_pay_apportionment_v15_pr(date, character varying, character varying) does not exist Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'repositoryRestConfigurationProvider' defined in class path resource [orgspringdoccoreSpringDocConfigurationSpringDocRepositoryRestConfiguration.class]: Unsatisfied dependency expressed through method 'repositoryRestConfigurationProvider' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'repositoryRestConfiguration' defined in class path resource [orgspringframeworkdatarestwebmvcconfigRepositoryRestMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.rest.core.config.RepositoryRestConfiguration]: Factory method 'repositoryRestConfiguration' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'repositories' defined in class path resource [orgspringframeworkdatarestwebmvcconfigRepositoryRestMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.data.repository.support.Repositories]: Factory method 'repositories' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mbActivityscoreStandardMRepository' defined in com.dalgona.activityscore.repository.MbActivityscoreStandardMRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.activityscore.domain.MbActivityscoreStandardM" />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyMembershippayPRepository' defined in com.dalgona.membership.repository.jpa.PyMembershippayPRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.membership.domain.PyMembershippayPCustom" />
@@ -127,14 +128,13 @@
       <item value="04-01 16:31:29.479 [asyncExecutor-1] INFO c.d.f.t.a.AspectForTransaction - 트랜잭션 경계 구분 확인 종료 com.dalgona.membership.settle.service.MembershipPaySettleCommandService.saveMembershipPayPGDepoSetl false" />
       <item value="clause" />
       <item value="select Membership Pay PG Depo Setl Exsist" />
-      <item value="Error querying database. Cause: java.lang.IndexOutOfBoundsException: Index 10 out of bounds for length 10" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="211" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="211" />
+        <entry key="KOREAN" value="212" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
