@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1722407398906" />
+    <option name="lastTrimTime" value="1723415098351" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="asset" />
       <item value="Setl Dash Board Job" />
       <item value="value too long for type character varying(1)" />
       <item value="Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
@@ -127,14 +128,13 @@
       <item value="exist" />
       <item value="exist Membership Pay Setl For LST" />
       <item value="org.postgresql.util.PSQLException: Bad value for type long : P2307163997947" />
-      <item value="select Tosspay Pay Appro Rec By Billing" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="215" />
+        <entry key="KOREAN" value="216" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
