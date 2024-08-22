@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="org.postgresql.util.PSQLException: ERROR: procedure se_vend_deduct_setl_v2_pr(date, character varying, character varying) does not exist Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
       <item value="Disp Mall Service" />
       <item value="Site Service" />
       <item value="asset" />
@@ -127,14 +128,13 @@
       <item value="포함" />
       <item value="java.util.concurrent.ExecutionException: org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.dalgona.tosspayments.repository.mapper.MembershipPayPgDpositCommandMapper.updateMembershipPayPgDepoSetl at java.basejava.util.concurrent.FutureTask.report(FutureTask.java:122) at java.basejava.util.concurrent.FutureTask.get(FutureTask.java:191)" />
       <item value="exsist" />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="217" />
+        <entry key="KOREAN" value="218" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
