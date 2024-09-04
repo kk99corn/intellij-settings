@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="590" />
     <histories>
+      <item value="Summary" />
       <item value="org.postgresql.util.PSQLException: ERROR: procedure se_vend_deduct_setl_v2_pr(date, character varying, character varying) does not exist Hint: No procedure matches the given name and argument types. You might need to add explicit type casts." />
       <item value="Disp Mall Service" />
       <item value="Site Service" />
@@ -103,7 +104,6 @@
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap'" />
       <item value="previous" />
-      <item value="Summary" />
       <item value=") was aborted: ERROR: syntax error at or near &quot;)&quot;" />
       <item value="Exist" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyPayifLFoRepository' defined in com.dalgona.payment.repository.jpa.PyPayifLFoRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.payment.domain.PaymentLibPyPayifL" />
@@ -132,9 +132,9 @@
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="218" />
+        <entry key="KOREAN" value="219" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
