@@ -1,5 +1,6 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="checkForUpdate" value="false" />
     <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
