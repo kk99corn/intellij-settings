@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1730345521258" />
+    <option name="lastTrimTime" value="1733378689895" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="charge" />
       <item value="Raw use of parameterized class 'DalgonaResponse'" />
       <item value="Unexpected response format or empty response for jobId: 792f819e-ef55-4b0d-b13a-4609117f084c" />
       <item value="Static member 'com.innog.erp.settle.service.RundeckJobStatusService.getJobDetails(java.lang.String)' accessed via instance reference" />
@@ -127,12 +128,11 @@
       <item value="Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
       <item value="WHERE setl_dt = '20240411'::date was aborted: ERROR: column &quot;nullins&quot; does not exist" />
       <item value="Following columns have no computeddefault value and must be listed explicitly:" />
-      <item value="exist Dto" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="HINDI" value="2" />
         <entry key="KOREAN" value="223" />
         <entry key="LATIN" value="1" />
