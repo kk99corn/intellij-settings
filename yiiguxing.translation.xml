@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="Error querying database. Cause: java.lang.NumberFormatException: For input string: &quot;Y&quot;" />
       <item value="12-23 11:15:57.053 [restartedMain] WARN o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Follower housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
       <item value="Reflection" />
       <item value="charge" />
@@ -127,14 +128,13 @@
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.bo.settlement.deposit.repository.mapper.MbrshipPayReconCommandMapper.selectMbrshipPayDepositSapSubmitAmountCount'. It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'comdalgonabosettlementdepositrepositorymapperMbrshipPayReconCommandMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
       <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
-      <item value="Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="224" />
+        <entry key="KOREAN" value="225" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
