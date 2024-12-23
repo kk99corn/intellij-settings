@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1734408563363" />
+    <option name="lastTrimTime" value="1734920187295" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="12-23 11:15:57.053 [restartedMain] WARN o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Follower housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
       <item value="Reflection" />
       <item value="charge" />
       <item value="Raw use of parameterized class 'DalgonaResponse'" />
@@ -127,14 +128,13 @@
       <item value="Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'comdalgonabosettlementdepositrepositorymapperMbrshipPayReconCommandMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
       <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
       <item value="Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
-      <item value="WHERE setl_dt = '20240411'::date was aborted: ERROR: column &quot;nullins&quot; does not exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="223" />
+        <entry key="KOREAN" value="224" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
