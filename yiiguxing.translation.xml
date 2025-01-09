@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="Pay Unsold Service" />
       <item value="remain Ord Dc Amt" />
       <item value="Error querying database. Cause: java.lang.NumberFormatException: For input string: &quot;Y&quot;" />
       <item value="12-23 11:15:57.053 [restartedMain] WARN o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Follower housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
@@ -127,14 +128,13 @@
       <item value="It's possible to extract method returning 'sapIfDto' from a long surrounding method" />
       <item value="04-23 11:02:19.888 [http-nio-8080-exec-4] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.bo.settlement.deposit.repository.mapper.MbrshipPayReconCommandMapper.selectMbrshipPayDepositSapSubmitAmountCount'. It's likely that neither a Result Type nor a Result Map was specified.] with root cause" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.bo.settlement.deposit.repository.mapper.MbrshipPayReconCommandMapper.selectMbrshipPayDepositSapSubmitAmountCount'. It's likely that neither a Result Type nor a Result Map was specified." />
-      <item value="Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'comdalgonabosettlementdepositrepositorymapperMbrshipPayReconCommandMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.dalgona.bo.settlement.deposit.dto.MbrshipPayReconDto.MpApproReconCommandDto" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="226" />
+        <entry key="KOREAN" value="227" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
