@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="LIMIT clause is redundant here" />
       <item value="save Smartcon Ledger" />
       <item value="Ledger" />
       <item value="Smartcon Reconcile Job" />
@@ -127,14 +128,13 @@
       <item value="Exist" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyPayifLFoRepository' defined in com.dalgona.payment.repository.jpa.PyPayifLFoRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.payment.domain.PaymentLibPyPayifL" />
       <item value="Membership Setl Command Service Impl" />
-      <item value="save Settlement" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="232" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="232" />
+        <entry key="KOREAN" value="233" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
