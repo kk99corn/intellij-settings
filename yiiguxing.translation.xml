@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1738806215517" />
+    <option name="lastTrimTime" value="1739768375681" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="Ledger Service" />
       <item value="LIMIT clause is redundant here" />
       <item value="save Smartcon Ledger" />
       <item value="Ledger" />
@@ -127,12 +128,11 @@
       <item value=") was aborted: ERROR: syntax error at or near &quot;)&quot;" />
       <item value="Exist" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyPayifLFoRepository' defined in com.dalgona.payment.repository.jpa.PyPayifLFoRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.payment.domain.PaymentLibPyPayifL" />
-      <item value="Membership Setl Command Service Impl" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="HINDI" value="2" />
         <entry key="KOREAN" value="233" />
         <entry key="LATIN" value="1" />
