@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1739768375681" />
+    <option name="lastTrimTime" value="1740696839658" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,8 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="Condition 'returnObject == null' is always 'false'" />
+      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="Ledger Service" />
       <item value="LIMIT clause is redundant here" />
       <item value="save Smartcon Ledger" />
@@ -122,19 +124,17 @@
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified." />
       <item value="java.util.concurrent.ExecutionException: java.lang.RuntimeException: execute 오류 발생: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'com.dalgona.membership.etcsale.repository.mapper.MembershipEtcSaleErpIfCommandMapper.selectLcifMembershipDaliySetlCountByLkgDate'. It's likely that neither a Result Type nor a Result Map was specified." />
-      <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap'" />
       <item value="previous" />
       <item value=") was aborted: ERROR: syntax error at or near &quot;)&quot;" />
       <item value="Exist" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pyPayifLFoRepository' defined in com.dalgona.payment.repository.jpa.PyPayifLFoRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class com.dalgona.payment.domain.PaymentLibPyPayifL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
         <entry key="ENGLISH" value="233" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="233" />
+        <entry key="KOREAN" value="235" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
