@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="org.apache.ibatis.binding.BindingException: Mapper method 'com.innog.bo.ashleycash.ledger.repository.mapper.LedgerReconcileCommandMapper.selectSmartConRecRechargeInitialAmount attempted to return null from a method with a primitive return type (long)." />
       <item value="Condition 'returnObject == null' is always 'false'" />
       <item value="Call to 'printStackTrace()' should probably be replaced with more robust logging" />
       <item value="Ledger Service" />
@@ -127,12 +128,11 @@
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap'" />
       <item value="previous" />
       <item value=") was aborted: ERROR: syntax error at or near &quot;)&quot;" />
-      <item value="Exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="HINDI" value="2" />
         <entry key="KOREAN" value="235" />
         <entry key="LATIN" value="1" />
