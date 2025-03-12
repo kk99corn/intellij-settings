@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="select Smartcon Reconcile Diff" />
       <item value="현실" />
       <item value="실물" />
       <item value="select Smartcont Rec Prev Close" />
@@ -127,7 +128,6 @@
       <item value="select Lcif Membership Daliy Setl" />
       <item value="insert Membership Daily Setl" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
-      <item value="It's likely that neither a Result Type nor a Result Map was specified." />
     </histories>
     <option name="languageScores">
       <map>
