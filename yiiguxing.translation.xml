@@ -70,7 +70,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1741734179077" />
+    <option name="lastTrimTime" value="1742947324136" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
@@ -78,6 +78,7 @@
     <option name="translationDialogLocationY" value="650" />
     <option name="translationDialogWidth" value="588" />
     <histories>
+      <item value="Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
       <item value="Caused by: org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'reoncileSn' in 'class com.innog.ashcash.ledger.dto.SmartconRecDto'" />
       <item value="select Smartcon Reconcile Diff" />
       <item value="현실" />
@@ -127,14 +128,13 @@
       <item value="The time unit is milliseconds by default but can be overridden via timeUnit." />
       <item value="Execute the annotated method with a fixed period between invocations." />
       <item value="select Lcif Membership Daliy Setl" />
-      <item value="insert Membership Daily Setl" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ALBANIAN" value="1" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="HINDI" value="2" />
-        <entry key="KOREAN" value="238" />
+        <entry key="KOREAN" value="239" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
